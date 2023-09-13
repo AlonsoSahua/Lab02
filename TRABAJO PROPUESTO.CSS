@@ -1,0 +1,113 @@
+body {
+    background-color: #d9c213;
+}
+#Titulo{
+    text-decoration: underline;
+    text-decoration-color: #000;
+    text-align: center;
+}
+#SubtituloFoto{
+    border: 4px;
+    text-decoration: underline;
+    text-align: center;
+}
+img {
+    border-radius: 50% ;
+    border: 4px solid black;
+    width: 200px;
+    height: 210px;
+    display: flex; 
+    margin: auto;
+}
+.container{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.Clase1
+    {
+    top: 125px; 
+    left: 60px;
+    position:absolute;
+    margin: 20px;
+    display: inline-block;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 4px solid #000; 
+    background-color: aliceblue; 
+    height: auto;
+    width: auto;
+}
+#PP2{
+    margin-right: 20px;
+}
+.Clase2
+    {
+    margin: 20px;
+    display: inline-block;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 4px solid #000;
+    background-color: aliceblue; 
+    height: auto;
+    width: auto;
+
+}
+.Clase3
+    {
+    margin: 20px;
+    display: inline-block;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 4px solid #000; 
+    background-color: aliceblue; 
+    height: auto;
+    width: auto;
+    position: relative;
+    left: 100px;
+}
+.Clase4
+    {
+    margin: 20px;
+    display: inline-block;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 4px solid #000; 
+    background-color: aliceblue; 
+    height: auto;
+    width: auto;
+    position:absolute;
+    top: 150px;
+    right: 170px;
+
+}
+.Clase5
+    {
+    margin: 20px;
+    display: inline-block;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 4px solid #000;
+    background-color: aliceblue;  
+    height: auto;
+    width: auto;
+    position: relative;
+    left: 250px;
+    bottom: 19px;
+}
+#Idiomas{
+    text-decoration: underline;
+    text-align: center;
+}
+#Idiomas2{
+    margin-right: 25px;
+}
